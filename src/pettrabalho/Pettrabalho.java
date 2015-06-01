@@ -14,6 +14,7 @@ public class Pettrabalho {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("kkk");
         // TODO code application logic here
     }
 }
